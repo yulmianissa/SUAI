@@ -61,7 +61,7 @@ border-radius: 25px;
        </sizepolicy>
       </property>
       <property name="text">
-       <string>Chatter Box</string>
+       <string>Hi, i'm client</string>
       </property>
      </widget>
     </item>
